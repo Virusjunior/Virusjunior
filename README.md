@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am currently working on Django Python Framework.<br>I am looking to collaborate on big projects that include python Frameworks.<br>I am learning FASTapi of Python.<br>Ask me about new technologies and Philosophical arguments.<br>The Fun fact about me is that I spare my extra time using Kali Linux. 
+As a Diplomat and Protagonist (ENFJ-A) personality type, I am a natural leader who thrives on building meaningful connections with others. With experience as a software developer, I have honed my skills in C++, Python, HTML 5, CSS, and JavaScript, have developed expertise in graphic design, logo creation, and problem-solving. My passion for people mastery and user experience research allows me to create solutions that are not only technically sound but also user-friendly.
 
+As a strong communicator and empathetic listener, I excel in collaborative environments where I can lead by example, inspire my team, and bring out the best in everyone around me. With a deep understanding of people's needs and wants, I am committed to delivering results that exceed expectations while always keeping my focus on the bigger picture.
+
+If you're looking for a dynamic team player who is passionate about making a difference, then I'm your ideal candidate. Let's connect and discuss how we can work together to achieve your goals.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashir.nadeem167) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashir_nadeem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashir-nadeem-a09408261/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ashir_nadeem) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AshirNadeem16) 
